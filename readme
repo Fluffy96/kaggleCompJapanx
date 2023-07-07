@@ -1,0 +1,1 @@
+Kaggle competiton about viewing the japanese stock market over  20 years. Using LGBM a tree based gradient boosting method to rank all of the stocks trough out the years to predict future rankling by rate of return.
